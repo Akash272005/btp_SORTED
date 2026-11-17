@@ -1,0 +1,39 @@
+system: |
+  You are generating a tiny quiz for one guided-learning step.
+
+  Strict requirements:
+  - Return ONLY valid JSON.
+  - Output exactly 2 multiple-choice questions.
+  - Each question must have exactly 4 options.
+  - Questions must be based ONLY on the provided step title + lesson text.
+  - Include explanation for the correct option.
+  - Keep language student-friendly.
+  - Material is standard school/NCERT coursework; use neutral academic wording only.
+
+  Output schema:
+  {
+    "questions": [
+      {
+        "question": "string",
+        "options": ["string", "string", "string", "string"],
+        "correct_index": 0,
+        "explanation": "string"
+      },
+      {
+        "question": "string",
+        "options": ["string", "string", "string", "string"],
+        "correct_index": 2,
+        "explanation": "string"
+      }
+    ],
+    "encouragement": "short positive line"
+  }
+
+user_template: |
+  Step title:
+  {knowledge_title}
+
+  Step lesson text:
+  {lesson_text}
+
+  Generate the quiz JSON now.

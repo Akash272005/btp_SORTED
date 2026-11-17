@@ -1,0 +1,3873 @@
+{
+  "class-6/maths/fegp101.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Knowing Our Numbers",
+    "number": 1
+  },
+  "class-6/maths/fegp102.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Whole Numbers",
+    "number": 2
+  },
+  "class-6/maths/fegp103.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Playing with Numbers",
+    "number": 3
+  },
+  "class-6/maths/fegp104.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Basic Geometrical Ideas",
+    "number": 4
+  },
+  "class-6/maths/fegp105.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Understanding Elementary Shapes",
+    "number": 5
+  },
+  "class-6/maths/fegp106.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Integers",
+    "number": 6
+  },
+  "class-6/maths/fegp107.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Fractions",
+    "number": 7
+  },
+  "class-6/maths/fegp108.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Decimals",
+    "number": 8
+  },
+  "class-6/maths/fegp109.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Data Handling",
+    "number": 9
+  },
+  "class-6/maths/fegp110.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Mensuration",
+    "number": 10
+  },
+  "class-6/maths/fhgp101.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "अपनी संख्याओं की जानकारी",
+    "number": 1
+  },
+  "class-6/maths/fhgp102.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "पूर्ण संख्याएँ",
+    "number": 2
+  },
+  "class-6/maths/fhgp103.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "संख्याओं के साथ खेलना",
+    "number": 3
+  },
+  "class-6/maths/fhgp104.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "आधारभूत ज्यामितीय अवधारणाएँ",
+    "number": 4
+  },
+  "class-6/maths/fhgp105.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "प्रारंभिक आकारों को समझना",
+    "number": 5
+  },
+  "class-6/maths/fhgp106.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "पूर्णांक",
+    "number": 6
+  },
+  "class-6/maths/fhgp107.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "भिन्न",
+    "number": 7
+  },
+  "class-6/maths/fhgp108.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "दशमलव",
+    "number": 8
+  },
+  "class-6/maths/fhgp109.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "आँकड़ों का प्रबंधन",
+    "number": 9
+  },
+  "class-6/maths/fhgp110.pdf": {
+    "grade": 6,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "क्षेत्रमिति",
+    "number": 10
+  },
+  "class-6/science/fecu101.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Food: Where Does It Come From?",
+    "number": 1
+  },
+  "class-6/science/fecu102.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Components of Food",
+    "number": 2
+  },
+  "class-6/science/fecu103.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Fibre to Fabric",
+    "number": 3
+  },
+  "class-6/science/fecu104.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Sorting Materials Into Groups",
+    "number": 4
+  },
+  "class-6/science/fecu105.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Separation of Substances",
+    "number": 5
+  },
+  "class-6/science/fecu106.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Changes Around Us",
+    "number": 6
+  },
+  "class-6/science/fecu107.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Getting To Know Plants",
+    "number": 7
+  },
+  "class-6/science/fecu108.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Body Movements",
+    "number": 8
+  },
+  "class-6/science/fecu109.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "The Living Organisms and Their Surroundings",
+    "number": 9
+  },
+  "class-6/science/fecu110.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Motion and Measurement of Distances",
+    "number": 10
+  },
+  "class-6/science/fecu111.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Light, Shadows and Reflections",
+    "number": 11
+  },
+  "class-6/science/fecu112.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "English",
+    "title": "Electricity and Circuits",
+    "number": 12
+  },
+  "class-6/science/fhcu101.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "भोजन: यह कहाँ से आता है?",
+    "number": 1
+  },
+  "class-6/science/fhcu102.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "भोजन के घटक",
+    "number": 2
+  },
+  "class-6/science/fhcu103.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "तंतु से वस्त्र तक",
+    "number": 3
+  },
+  "class-6/science/fhcu104.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "वस्तुओं के समूह बनाना",
+    "number": 4
+  },
+  "class-6/science/fhcu105.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "पदार्थों का पृथक्करण",
+    "number": 5
+  },
+  "class-6/science/fhcu106.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "हमारे चारों ओर के परिवर्तन",
+    "number": 6
+  },
+  "class-6/science/fhcu107.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "पौधों को जानिए",
+    "number": 7
+  },
+  "class-6/science/fhcu108.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "शरीर में गति",
+    "number": 8
+  },
+  "class-6/science/fhcu109.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "सजीव एवं उनका परिवेश",
+    "number": 9
+  },
+  "class-6/science/fhcu110.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "गति एवं दूरियों का मापन",
+    "number": 10
+  },
+  "class-6/science/fhcu111.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "प्रकाश, छायाएँ एवं परावर्तन",
+    "number": 11
+  },
+  "class-6/science/fhcu112.pdf": {
+    "grade": 6,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "विद्युत तथा परिपथ",
+    "number": 12
+  },
+  "class-6/social-science/fees101.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Earth in the Solar System",
+    "number": 1
+  },
+  "class-6/social-science/fees102.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Globe: Latitudes and Longitudes",
+    "number": 2
+  },
+  "class-6/social-science/fees103.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Motions of the Earth",
+    "number": 3
+  },
+  "class-6/social-science/fees104.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Maps",
+    "number": 4
+  },
+  "class-6/social-science/fees105.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Major Domains of the Earth",
+    "number": 5
+  },
+  "class-6/social-science/fees106.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Major Landforms of the Earth",
+    "number": 6
+  },
+  "class-6/social-science/fees107.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Our Country - India",
+    "number": 7
+  },
+  "class-6/social-science/fees108.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "India: Climate, Vegetation and Wildlife",
+    "number": 8
+  },
+  "class-6/social-science/fees109.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Family and  Community",
+    "number": 9
+  },
+  "class-6/social-science/fees110.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Grassroots Democracy – Part 1 Governance",
+    "number": 10
+  },
+  "class-6/social-science/fees111.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Grassroots Democracy – Part 2Local Government in  Rural Areas",
+    "number": 11
+  },
+  "class-6/social-science/fees112.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Grassroots Democracy – Part 3Local Government in  Urban Areas",
+    "number": 12
+  },
+  "class-6/social-science/fees113.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Value of Work",
+    "number": 13
+  },
+  "class-6/social-science/fees114.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Economic Activities Around Us",
+    "number": 14
+  },
+  "class-6/social-science/fhes101.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "सौरमंडल में पृथ्वी",
+    "number": 1
+  },
+  "class-6/social-science/fhes102.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "ग्लोब: अक्षांश एवं देशांतर",
+    "number": 2
+  },
+  "class-6/social-science/fhes103.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "पृथ्वी की गतियां",
+    "number": 3
+  },
+  "class-6/social-science/fhes104.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "मानचित्र",
+    "number": 4
+  },
+  "class-6/social-science/fhes105.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "पृथ्वी के प्रमुख परिमंडल",
+    "number": 5
+  },
+  "class-6/social-science/fhes106.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "पृथ्वी के प्रमुख स्थलरूप",
+    "number": 6
+  },
+  "class-6/social-science/fhes107.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "हमारा देश: भारत",
+    "number": 7
+  },
+  "class-6/social-science/fhes108.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "भारत: जलवायु, वनस्पति तथा वन्य प्राणी",
+    "number": 8
+  },
+  "class-6/social-science/fhes109.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "परिवार और समुदाय",
+    "number": 9
+  },
+  "class-6/social-science/fhes110.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "आधारभूत लोकतंत्र — भाग 1: शासन",
+    "number": 10
+  },
+  "class-6/social-science/fhes111.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "आधारभूत लोकतंत्र — भाग 2: ग्रामीण क्षेत्रों में स्थानीय सरकार",
+    "number": 11
+  },
+  "class-6/social-science/fhes112.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "आधारभूत लोकतंत्र — भाग 3: नगरीय क्षेत्रों में स्थानीय सरकार",
+    "number": 12
+  },
+  "class-6/social-science/fhes113.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "कार्य का मूल्य",
+    "number": 13
+  },
+  "class-6/social-science/fhes114.pdf": {
+    "grade": 6,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "हमारे चारों ओर की आर्थिक गतिविधियाँ",
+    "number": 14
+  },
+  "class-7/maths/gemh101.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Integers",
+    "number": 1
+  },
+  "class-7/maths/gemh102.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Fractions and Decimals",
+    "number": 2
+  },
+  "class-7/maths/gemh103.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Data Handling",
+    "number": 3
+  },
+  "class-7/maths/gemh104.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Simple Equations",
+    "number": 4
+  },
+  "class-7/maths/gemh105.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Lines and Angles",
+    "number": 5
+  },
+  "class-7/maths/gemh106.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "The Triangle and its Properties",
+    "number": 6
+  },
+  "class-7/maths/gemh107.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Congruence of Triangles",
+    "number": 7
+  },
+  "class-7/maths/gemh108.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Comparing Quantities",
+    "number": 8
+  },
+  "class-7/maths/gemh109.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Rational Numbers",
+    "number": 9
+  },
+  "class-7/maths/gemh110.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Practical Geometry",
+    "number": 10
+  },
+  "class-7/maths/gemh111.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Perimeter and Area",
+    "number": 11
+  },
+  "class-7/maths/gemh112.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Algebraic Expressions",
+    "number": 12
+  },
+  "class-7/maths/gemh113.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Exponents and Powers",
+    "number": 13
+  },
+  "class-7/maths/ghmh101.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "पूर्णांक",
+    "number": 1
+  },
+  "class-7/maths/ghmh102.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "भिन्न एवं दशमलव",
+    "number": 2
+  },
+  "class-7/maths/ghmh103.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "आँकड़ों का प्रबंधन",
+    "number": 3
+  },
+  "class-7/maths/ghmh104.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "सरल समीकरण",
+    "number": 4
+  },
+  "class-7/maths/ghmh105.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "रेखा एवं कोण",
+    "number": 5
+  },
+  "class-7/maths/ghmh106.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "त्रिभुज और उसके गुण",
+    "number": 6
+  },
+  "class-7/maths/ghmh107.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "त्रिभुजों की सर्वांगसमता",
+    "number": 7
+  },
+  "class-7/maths/ghmh108.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "राशियों की तुलना",
+    "number": 8
+  },
+  "class-7/maths/ghmh109.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "परिमेय संख्याएँ",
+    "number": 9
+  },
+  "class-7/maths/ghmh110.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "प्रायोगिक ज्यामितिकी",
+    "number": 10
+  },
+  "class-7/maths/ghmh111.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "परिमाप और क्षेत्रफल",
+    "number": 11
+  },
+  "class-7/maths/ghmh112.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "बीजीय व्यंजक",
+    "number": 12
+  },
+  "class-7/maths/ghmh113.pdf": {
+    "grade": 7,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "घातांक और घात",
+    "number": 13
+  },
+  "class-7/science/gesc101.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Nutrition in Plants",
+    "number": 1
+  },
+  "class-7/science/gesc102.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Nutrition in Animals",
+    "number": 2
+  },
+  "class-7/science/gesc103.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Fibre to Fabric",
+    "number": 3
+  },
+  "class-7/science/gesc104.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Heat",
+    "number": 4
+  },
+  "class-7/science/gesc105.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Acids, Bases and Salts",
+    "number": 5
+  },
+  "class-7/science/gesc106.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Physical and Chemical Changes",
+    "number": 6
+  },
+  "class-7/science/gesc107.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Weather, Climate and Adaptations of Animals to Climate",
+    "number": 7
+  },
+  "class-7/science/gesc108.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Winds, Storms and Cyclones",
+    "number": 8
+  },
+  "class-7/science/gesc109.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Soil",
+    "number": 9
+  },
+  "class-7/science/gesc110.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Respiration in Organisms",
+    "number": 10
+  },
+  "class-7/science/gesc111.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Transportation in Animals and Plants",
+    "number": 11
+  },
+  "class-7/science/gesc112.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Reproduction in Plants",
+    "number": 12
+  },
+  "class-7/science/gesc113.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "English",
+    "title": "Motion and Time",
+    "number": 13
+  },
+  "class-7/science/ghsc101.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "पादपों में पोषण",
+    "number": 1
+  },
+  "class-7/science/ghsc102.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "प्राणियों में पोषण",
+    "number": 2
+  },
+  "class-7/science/ghsc103.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "रेशों से वस्त्र तक",
+    "number": 3
+  },
+  "class-7/science/ghsc104.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "ऊष्मा",
+    "number": 4
+  },
+  "class-7/science/ghsc105.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "अम्ल, क्षारक और लवण",
+    "number": 5
+  },
+  "class-7/science/ghsc106.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "भौतिक एवं रासायनिक परिवर्तन",
+    "number": 6
+  },
+  "class-7/science/ghsc107.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "मौसम, जलवायु तथा जलवायु के अनुरूप जंतुओं द्वारा अनुकूलन",
+    "number": 7
+  },
+  "class-7/science/ghsc108.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "पवन, तूफ़ान और चक्रवात",
+    "number": 8
+  },
+  "class-7/science/ghsc109.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "मृदा",
+    "number": 9
+  },
+  "class-7/science/ghsc110.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "जीवों में श्वसन",
+    "number": 10
+  },
+  "class-7/science/ghsc111.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "जंतुओं और पादपों में परिवहन",
+    "number": 11
+  },
+  "class-7/science/ghsc112.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "पादप में जनन",
+    "number": 12
+  },
+  "class-7/science/ghsc113.pdf": {
+    "grade": 7,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "गति एवं समय",
+    "number": 13
+  },
+  "class-7/social-science/gees101.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Environment",
+    "number": 1
+  },
+  "class-7/social-science/gess201.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "On Equality",
+    "number": 1
+  },
+  "class-7/social-science/gess301.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Tracing Changes Through a Thousand Years",
+    "number": 1
+  },
+  "class-7/social-science/gees102.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Inside Our Earth",
+    "number": 2
+  },
+  "class-7/social-science/gess202.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Role of the Government in Health",
+    "number": 2
+  },
+  "class-7/social-science/gess302.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "New Kings and Kingdoms",
+    "number": 2
+  },
+  "class-7/social-science/gees103.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Our Changing Earth",
+    "number": 3
+  },
+  "class-7/social-science/gess203.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "How the State Government Works",
+    "number": 3
+  },
+  "class-7/social-science/gess303.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Delhi Sultans",
+    "number": 3
+  },
+  "class-7/social-science/gees104.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Air",
+    "number": 4
+  },
+  "class-7/social-science/gess204.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Growing up as Boys and Girls",
+    "number": 4
+  },
+  "class-7/social-science/gess304.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Mughal Empire",
+    "number": 4
+  },
+  "class-7/social-science/gees105.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Water",
+    "number": 5
+  },
+  "class-7/social-science/gess205.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Women Change the World",
+    "number": 5
+  },
+  "class-7/social-science/gess305.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Rulers and Buildings",
+    "number": 5
+  },
+  "class-7/social-science/gees106.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Natural Vegetation and Wild Life",
+    "number": 6
+  },
+  "class-7/social-science/gess206.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Understanding Media",
+    "number": 6
+  },
+  "class-7/social-science/gess306.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Towns, Traders and Craftspersons",
+    "number": 6
+  },
+  "class-7/social-science/gees107.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Human Environment – Settlement, Transport and Communication",
+    "number": 7
+  },
+  "class-7/social-science/gess207.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Markets Around Us",
+    "number": 7
+  },
+  "class-7/social-science/gess307.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Tribes, Nomads and Settled Communities",
+    "number": 7
+  },
+  "class-7/social-science/gees108.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Human Environment Interactions – The Tropical and the Subtropical Region",
+    "number": 8
+  },
+  "class-7/social-science/gess308.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Devotional Paths to the Divine",
+    "number": 8
+  },
+  "class-7/social-science/gees109.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Life in the Deserts",
+    "number": 9
+  },
+  "class-7/social-science/gees110.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Constitution of India — An Introduction",
+    "number": 10
+  },
+  "class-7/social-science/gees111.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "From Barter to Money",
+    "number": 11
+  },
+  "class-7/social-science/gees112.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Understanding Markets",
+    "number": 12
+  },
+  "class-7/social-science/ghes101.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "पर्यावरण",
+    "number": 1
+  },
+  "class-7/social-science/ghss101.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "हजार वर्षों के दौरान हुए परिवर्तनों की पड़ताल",
+    "number": 1
+  },
+  "class-7/social-science/ghss201.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "समानता",
+    "number": 1
+  },
+  "class-7/social-science/ghes102.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "हमारी पृथ्वी के अंदर",
+    "number": 2
+  },
+  "class-7/social-science/ghss102.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "नये राजा और उनके राज्य",
+    "number": 2
+  },
+  "class-7/social-science/ghss202.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "स्वास्थ्य में सरकार की भूमिका",
+    "number": 2
+  },
+  "class-7/social-science/ghes103.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "हमारी बदलती पृथ्वी",
+    "number": 3
+  },
+  "class-7/social-science/ghss103.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "दिल्ली के सुल्तान",
+    "number": 3
+  },
+  "class-7/social-science/ghss203.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "शासन कैसे काम करता है",
+    "number": 3
+  },
+  "class-7/social-science/ghes104.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "वायु",
+    "number": 4
+  },
+  "class-7/social-science/ghss104.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "मुग़ल साम्राज्य",
+    "number": 4
+  },
+  "class-7/social-science/ghss204.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "लड़के और लड़कियों के रूप में बड़ा होना",
+    "number": 4
+  },
+  "class-7/social-science/ghes105.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "जल",
+    "number": 5
+  },
+  "class-7/social-science/ghss105.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "शासक और इमारतें",
+    "number": 5
+  },
+  "class-7/social-science/ghss205.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "औरतों ने बदली दुनिया",
+    "number": 5
+  },
+  "class-7/social-science/ghes106.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "प्राकृतिक वनस्पति एवं वन्य जीवन",
+    "number": 6
+  },
+  "class-7/social-science/ghss106.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "नगर, व्यापारी और शिल्पीजन",
+    "number": 6
+  },
+  "class-7/social-science/ghss206.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "संचार माध्यमों को समझना",
+    "number": 6
+  },
+  "class-7/social-science/ghes107.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "मानवीय पर्यावरण: बस्तियाँ, परिवहन एवं संचार",
+    "number": 7
+  },
+  "class-7/social-science/ghss107.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "जनजातियाँ, खानाबदोश और एक जगह बसे हुए समुदाय",
+    "number": 7
+  },
+  "class-7/social-science/ghss207.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "हमारे आस-पास के बाज़ार",
+    "number": 7
+  },
+  "class-7/social-science/ghes108.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "मानव-पर्यावरण अन्योन्यक्रिया: उष्णकटिबंधीय एवं उपोष्ण प्रदेश",
+    "number": 8
+  },
+  "class-7/social-science/ghss108.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "ईश्वर से अनुराग",
+    "number": 8
+  },
+  "class-7/social-science/ghes109.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "रेगिस्तान में जीवन",
+    "number": 9
+  },
+  "class-7/social-science/ghes110.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "The Constitution of India — An Introduction",
+    "number": 10
+  },
+  "class-7/social-science/ghes111.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "From Barter to Money",
+    "number": 11
+  },
+  "class-7/social-science/ghes112.pdf": {
+    "grade": 7,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "Understanding Markets",
+    "number": 12
+  },
+  "class-8/maths/hemh101.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Rational Numbers",
+    "number": 1
+  },
+  "class-8/maths/hemh102.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Linear Equations in One Variable",
+    "number": 2
+  },
+  "class-8/maths/hemh103.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Understanding Quadrilaterals",
+    "number": 3
+  },
+  "class-8/maths/hemh104.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Practical Geometry",
+    "number": 4
+  },
+  "class-8/maths/hemh105.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Data Handling",
+    "number": 5
+  },
+  "class-8/maths/hemh106.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Squares and Square Roots",
+    "number": 6
+  },
+  "class-8/maths/hemh107.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Cubes and Cube Roots",
+    "number": 7
+  },
+  "class-8/maths/hemh108.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Comparing Quantities",
+    "number": 8
+  },
+  "class-8/maths/hemh109.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Algebraic Expressions and Identities",
+    "number": 9
+  },
+  "class-8/maths/hemh110.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Visualising Solid Shapes",
+    "number": 10
+  },
+  "class-8/maths/hemh111.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Mensuration",
+    "number": 11
+  },
+  "class-8/maths/hemh112.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Exponents and Powers",
+    "number": 12
+  },
+  "class-8/maths/hemh113.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Direct and Inverse Proportions",
+    "number": 13
+  },
+  "class-8/maths/hhmh101.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "परिमेय संख्याएँ",
+    "number": 1
+  },
+  "class-8/maths/hhmh102.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "एक चर वाले रैखिक समीकरण",
+    "number": 2
+  },
+  "class-8/maths/hhmh103.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "चतुर्भुजों को समझना",
+    "number": 3
+  },
+  "class-8/maths/hhmh104.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "प्रायोगिक ज्यामितिकी",
+    "number": 4
+  },
+  "class-8/maths/hhmh105.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "आँकड़ों का प्रबंधन",
+    "number": 5
+  },
+  "class-8/maths/hhmh106.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "वर्ग और वर्गमूल",
+    "number": 6
+  },
+  "class-8/maths/hhmh107.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "घन और घनमूल",
+    "number": 7
+  },
+  "class-8/maths/hhmh108.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "राशियों की तुलना",
+    "number": 8
+  },
+  "class-8/maths/hhmh109.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "बीजीय व्यंजक और सर्वसमिकाएँ",
+    "number": 9
+  },
+  "class-8/maths/hhmh110.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "ठोस आकारों का चित्रण",
+    "number": 10
+  },
+  "class-8/maths/hhmh111.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "क्षेत्रमिति",
+    "number": 11
+  },
+  "class-8/maths/hhmh112.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "घातांक और घात",
+    "number": 12
+  },
+  "class-8/maths/hhmh113.pdf": {
+    "grade": 8,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "सीधा और प्रतिलोम समानुपात",
+    "number": 13
+  },
+  "class-8/science/hesc101.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Crop Production and Management",
+    "number": 1
+  },
+  "class-8/science/hesc102.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Microorganisms: Friend and Foe",
+    "number": 2
+  },
+  "class-8/science/hesc103.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Synthetic Fibres and Plastics",
+    "number": 3
+  },
+  "class-8/science/hesc104.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Materials: Metals and Non-Metals",
+    "number": 4
+  },
+  "class-8/science/hesc105.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Coal and Petroleum",
+    "number": 5
+  },
+  "class-8/science/hesc106.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Combustion and Flame",
+    "number": 6
+  },
+  "class-8/science/hesc107.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Conservation of Plants and Animals",
+    "number": 7
+  },
+  "class-8/science/hesc108.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Cell – Structure and Functions",
+    "number": 8
+  },
+  "class-8/science/hesc109.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Reproduction in Animals",
+    "number": 9
+  },
+  "class-8/science/hesc110.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Reaching the Age of Adolescence",
+    "number": 10
+  },
+  "class-8/science/hesc111.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Force and Pressure",
+    "number": 11
+  },
+  "class-8/science/hesc112.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Friction",
+    "number": 12
+  },
+  "class-8/science/hesc113.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "English",
+    "title": "Sound",
+    "number": 13
+  },
+  "class-8/science/hhsc101.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "फसल उत्पादन एवं प्रबंध",
+    "number": 1
+  },
+  "class-8/science/hhsc102.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "सूक्ष्मजीव: मित्र एवं शत्रु",
+    "number": 2
+  },
+  "class-8/science/hhsc103.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "संश्लेषित रेशे और प्लास्टिक",
+    "number": 3
+  },
+  "class-8/science/hhsc104.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "पदार्थ: धातु और अधातु",
+    "number": 4
+  },
+  "class-8/science/hhsc105.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "कोयला और पेट्रोलियम",
+    "number": 5
+  },
+  "class-8/science/hhsc106.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "दहन और ज्वाला",
+    "number": 6
+  },
+  "class-8/science/hhsc107.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "पौधों एवं जंतुओं का संरक्षण",
+    "number": 7
+  },
+  "class-8/science/hhsc108.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "कोशिका - संरचना एवं प्रकार्य",
+    "number": 8
+  },
+  "class-8/science/hhsc109.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "जंतुओं में जनन",
+    "number": 9
+  },
+  "class-8/science/hhsc110.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "किशोरावस्था की ओर",
+    "number": 10
+  },
+  "class-8/science/hhsc111.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "बल तथा दाब",
+    "number": 11
+  },
+  "class-8/science/hhsc112.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "घर्षण",
+    "number": 12
+  },
+  "class-8/science/hhsc113.pdf": {
+    "grade": 8,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "ध्वनि",
+    "number": 13
+  },
+  "class-8/social-science/hees101.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Resources",
+    "number": 1
+  },
+  "class-8/social-science/hess201.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "How, When and Where",
+    "number": 1
+  },
+  "class-8/social-science/hess301.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Indian Constitution",
+    "number": 1
+  },
+  "class-8/social-science/hess401.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Resources",
+    "number": 1
+  },
+  "class-8/social-science/hees102.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+    "number": 2
+  },
+  "class-8/social-science/hess202.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "From Trade to Territory",
+    "number": 2
+  },
+  "class-8/social-science/hess302.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Understanding Secularism",
+    "number": 2
+  },
+  "class-8/social-science/hess402.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+    "number": 2
+  },
+  "class-8/social-science/hees103.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Mineral and Power Resources",
+    "number": 3
+  },
+  "class-8/social-science/hess203.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Ruling the Countryside",
+    "number": 3
+  },
+  "class-8/social-science/hess303.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Parliament and the Making of Laws",
+    "number": 3
+  },
+  "class-8/social-science/hess403.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Agriculture",
+    "number": 3
+  },
+  "class-8/social-science/hees104.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Agriculture",
+    "number": 4
+  },
+  "class-8/social-science/hess204.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Tribals, Dikus and the Vision of a Golden Age",
+    "number": 4
+  },
+  "class-8/social-science/hess304.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Judiciary",
+    "number": 4
+  },
+  "class-8/social-science/hess404.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Industries",
+    "number": 4
+  },
+  "class-8/social-science/hees105.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Industries",
+    "number": 5
+  },
+  "class-8/social-science/hess205.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "When People Rebel",
+    "number": 5
+  },
+  "class-8/social-science/hess305.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Understanding Marginalisation",
+    "number": 5
+  },
+  "class-8/social-science/hess405.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Human Resources",
+    "number": 5
+  },
+  "class-8/social-science/hees106.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Human Resources",
+    "number": 6
+  },
+  "class-8/social-science/hess206.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Weavers, Iron Smelters and Factory Owners",
+    "number": 6
+  },
+  "class-8/social-science/hess306.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Confronting Marginalisation",
+    "number": 6
+  },
+  "class-8/social-science/hees107.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Factors of Production",
+    "number": 7
+  },
+  "class-8/social-science/hess207.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Civilising the 'Native', Educating the Nation",
+    "number": 7
+  },
+  "class-8/social-science/hess307.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Public Facilities",
+    "number": 7
+  },
+  "class-8/social-science/hess208.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Women, Caste and Reform",
+    "number": 8
+  },
+  "class-8/social-science/hess308.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Law and Social Justice",
+    "number": 8
+  },
+  "class-8/social-science/hhss101.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "कैसे, कब और कहाँ",
+    "number": 1
+  },
+  "class-8/social-science/hhss102.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "व्यापार से साम्राज्य तक",
+    "number": 2
+  },
+  "class-8/social-science/hhss103.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "ग्रामीण क्षेत्र पर शासन चलाना",
+    "number": 3
+  },
+  "class-8/social-science/hhss104.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "आदिवासी, दीकु और एक स्वर्ण युग की कल्पना",
+    "number": 4
+  },
+  "class-8/social-science/hhss105.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "जब जनता बगावत करती है",
+    "number": 5
+  },
+  "class-8/social-science/hhss106.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "बुनकर, लोहा बनाने वाले और फैक्ट्री मालिक",
+    "number": 6
+  },
+  "class-8/social-science/hhss107.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "देशीय जनता को सभ्य बनाना राष्ट्र को शिक्षित करना",
+    "number": 7
+  },
+  "class-8/social-science/hhss108.pdf": {
+    "grade": 8,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "महिलाएँ, जाति एवं सुधार",
+    "number": 8
+  },
+  "class-9/maths/iemh101.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Number Systems",
+    "number": 1
+  },
+  "class-9/maths/iemh102.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Polynomials",
+    "number": 2
+  },
+  "class-9/maths/iemh103.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Coordinate Geometry",
+    "number": 3
+  },
+  "class-9/maths/iemh104.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Linear Equations in Two Variables",
+    "number": 4
+  },
+  "class-9/maths/iemh105.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Introduction to Euclid's Geometry",
+    "number": 5
+  },
+  "class-9/maths/iemh106.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Lines and Angles",
+    "number": 6
+  },
+  "class-9/maths/iemh107.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Triangles",
+    "number": 7
+  },
+  "class-9/maths/iemh108.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Quadrilaterals",
+    "number": 8
+  },
+  "class-9/maths/iemh109.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Areas of Parallelograms and Triangles",
+    "number": 9
+  },
+  "class-9/maths/iemh110.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Circles",
+    "number": 10
+  },
+  "class-9/maths/iemh111.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Constructions",
+    "number": 11
+  },
+  "class-9/maths/iemh112.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Heron's Formula",
+    "number": 12
+  },
+  "class-9/maths/ihmh101.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "संख्या पद्धति",
+    "number": 1
+  },
+  "class-9/maths/ihmh102.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "बहुपद",
+    "number": 2
+  },
+  "class-9/maths/ihmh103.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "निर्देशांक ज्यामिति",
+    "number": 3
+  },
+  "class-9/maths/ihmh104.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "दो चरों वाले रैखिक समीकरण",
+    "number": 4
+  },
+  "class-9/maths/ihmh105.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "यूक्लिड की ज्यामिति का परिचय",
+    "number": 5
+  },
+  "class-9/maths/ihmh106.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "रेखाएँ और कोण",
+    "number": 6
+  },
+  "class-9/maths/ihmh107.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "त्रिभुज",
+    "number": 7
+  },
+  "class-9/maths/ihmh108.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "चतुर्भुज",
+    "number": 8
+  },
+  "class-9/maths/ihmh109.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "समांतर चतुर्भुजों और त्रिभुजों के क्षेत्रफल",
+    "number": 9
+  },
+  "class-9/maths/ihmh110.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "वृत्त",
+    "number": 10
+  },
+  "class-9/maths/ihmh111.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "रचनाएँ",
+    "number": 11
+  },
+  "class-9/maths/ihmh112.pdf": {
+    "grade": 9,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "हीरोन का सूत्र",
+    "number": 12
+  },
+  "class-9/science/iesc101.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Matter in Our Surroundings",
+    "number": 1
+  },
+  "class-9/science/iesc102.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Is Matter Around Us Pure",
+    "number": 2
+  },
+  "class-9/science/iesc103.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Atoms and Molecules",
+    "number": 3
+  },
+  "class-9/science/iesc104.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Structure of the Atom",
+    "number": 4
+  },
+  "class-9/science/iesc105.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "The Fundamental Unit of Life",
+    "number": 5
+  },
+  "class-9/science/iesc106.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Tissues",
+    "number": 6
+  },
+  "class-9/science/iesc107.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Diversity in Living Organisms",
+    "number": 7
+  },
+  "class-9/science/iesc108.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Motion",
+    "number": 8
+  },
+  "class-9/science/iesc109.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Force and Laws of Motion",
+    "number": 9
+  },
+  "class-9/science/iesc110.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Gravitation",
+    "number": 10
+  },
+  "class-9/science/iesc111.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Work and Energy",
+    "number": 11
+  },
+  "class-9/science/iesc112.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "English",
+    "title": "Sound",
+    "number": 12
+  },
+  "class-9/science/ihsc101.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "हमारे आस-पास के पदार्थ",
+    "number": 1
+  },
+  "class-9/science/ihsc102.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "क्या हमारे आस-पास के पदार्थ शुद्ध हैं",
+    "number": 2
+  },
+  "class-9/science/ihsc103.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "परमाणु एवं अणु",
+    "number": 3
+  },
+  "class-9/science/ihsc104.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "परमाणु की संरचना",
+    "number": 4
+  },
+  "class-9/science/ihsc105.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "जीवन की मौलिक इकाई",
+    "number": 5
+  },
+  "class-9/science/ihsc106.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "ऊतक",
+    "number": 6
+  },
+  "class-9/science/ihsc107.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "जीवों में विविधता",
+    "number": 7
+  },
+  "class-9/science/ihsc108.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "गति",
+    "number": 8
+  },
+  "class-9/science/ihsc109.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "बल तथा गति के नियम",
+    "number": 9
+  },
+  "class-9/science/ihsc110.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "गुरुत्वाकर्षण",
+    "number": 10
+  },
+  "class-9/science/ihsc111.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "कार्य तथा ऊर्जा",
+    "number": 11
+  },
+  "class-9/science/ihsc112.pdf": {
+    "grade": 9,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "ध्वनि",
+    "number": 12
+  },
+  "class-9/social-science/iess101.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The French Revolution",
+    "number": 1
+  },
+  "class-9/social-science/iess201.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "India – Size and Location",
+    "number": 1
+  },
+  "class-9/social-science/iess301.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "What is Democracy? Why Democracy?",
+    "number": 1
+  },
+  "class-9/social-science/iess401.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Story of Village Palampur",
+    "number": 1
+  },
+  "class-9/social-science/iess102.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Socialism in Europe and the Russian Revolution",
+    "number": 2
+  },
+  "class-9/social-science/iess202.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Physical Features of India",
+    "number": 2
+  },
+  "class-9/social-science/iess302.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Constitutional Design",
+    "number": 2
+  },
+  "class-9/social-science/iess402.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "People as Resource",
+    "number": 2
+  },
+  "class-9/social-science/iess103.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Nazism and the Rise of Hitler",
+    "number": 3
+  },
+  "class-9/social-science/iess203.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Drainage",
+    "number": 3
+  },
+  "class-9/social-science/iess303.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Electoral Politics",
+    "number": 3
+  },
+  "class-9/social-science/iess403.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Poverty as a Challenge",
+    "number": 3
+  },
+  "class-9/social-science/iess104.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Forest Society and Colonialism",
+    "number": 4
+  },
+  "class-9/social-science/iess204.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Climate",
+    "number": 4
+  },
+  "class-9/social-science/iess304.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Working of Institutions",
+    "number": 4
+  },
+  "class-9/social-science/iess404.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Food Security in India",
+    "number": 4
+  },
+  "class-9/social-science/iess105.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Pastoralists in the Modern World",
+    "number": 5
+  },
+  "class-9/social-science/iess305.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Democratic Rights",
+    "number": 5
+  },
+  "class-9/social-science/iess405.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Democratic Rights",
+    "number": 5
+  },
+  "class-9/social-science/iess106.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Population",
+    "number": 6
+  },
+  "class-9/social-science/ihss101.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "फ्रांसीसी क्रांति",
+    "number": 1
+  },
+  "class-9/social-science/ihss201.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "भारत - आकार और स्थिति",
+    "number": 1
+  },
+  "class-9/social-science/ihss301.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "लोकतंत्र क्या? लोकतंत्र क्यों?",
+    "number": 1
+  },
+  "class-9/social-science/ihss401.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "पालमपुर गाँव की कहानी",
+    "number": 1
+  },
+  "class-9/social-science/ihss102.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "यूरोप में समाजवाद एवं रूसी क्रांति",
+    "number": 2
+  },
+  "class-9/social-science/ihss202.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "भारत का भौतिक स्वरूप",
+    "number": 2
+  },
+  "class-9/social-science/ihss302.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "संविधान निर्माण",
+    "number": 2
+  },
+  "class-9/social-science/ihss402.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "संसाधन के रूप में लोग",
+    "number": 2
+  },
+  "class-9/social-science/ihss103.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "नात्सीवाद और हिटलर का उदय",
+    "number": 3
+  },
+  "class-9/social-science/ihss203.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "अपवाह",
+    "number": 3
+  },
+  "class-9/social-science/ihss303.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "चुनावी राजनीति",
+    "number": 3
+  },
+  "class-9/social-science/ihss403.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "निर्धनता: एक चुनौती",
+    "number": 3
+  },
+  "class-9/social-science/ihss104.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "वन्य समाज एवं उपनिवेशवाद",
+    "number": 4
+  },
+  "class-9/social-science/ihss204.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "जलवायु",
+    "number": 4
+  },
+  "class-9/social-science/ihss304.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "संस्थाओं का कामकाज",
+    "number": 4
+  },
+  "class-9/social-science/ihss404.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "भारत में खाद्य सुरक्षा",
+    "number": 4
+  },
+  "class-9/social-science/ihss105.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "आधुनिक विश्व में चरवाहे",
+    "number": 5
+  },
+  "class-9/social-science/ihss305.pdf": {
+    "grade": 9,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "लोकतांत्रिक अधिकार",
+    "number": 5
+  },
+  "class-10/maths/jemh101.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Real Numbers",
+    "number": 1
+  },
+  "class-10/maths/jemh102.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Polynomials",
+    "number": 2
+  },
+  "class-10/maths/jemh103.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Pair of Linear Equations in Two Variables",
+    "number": 3
+  },
+  "class-10/maths/jemh104.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Quadratic Equations",
+    "number": 4
+  },
+  "class-10/maths/jemh105.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Arithmetic Progressions",
+    "number": 5
+  },
+  "class-10/maths/jemh106.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Triangles",
+    "number": 6
+  },
+  "class-10/maths/jemh107.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Coordinate Geometry",
+    "number": 7
+  },
+  "class-10/maths/jemh108.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Introduction to Trigonometry",
+    "number": 8
+  },
+  "class-10/maths/jemh109.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Some Applications of Trigonometry",
+    "number": 9
+  },
+  "class-10/maths/jemh110.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Circles",
+    "number": 10
+  },
+  "class-10/maths/jemh111.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Constructions",
+    "number": 11
+  },
+  "class-10/maths/jemh112.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Areas Related to Circles",
+    "number": 12
+  },
+  "class-10/maths/jemh113.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Surface Areas and Volumes",
+    "number": 13
+  },
+  "class-10/maths/jemh114.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Statistics",
+    "number": 14
+  },
+  "class-10/maths/jhmh101.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "वास्तविक संख्याएँ",
+    "number": 1
+  },
+  "class-10/maths/jhmh102.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "बहुपद",
+    "number": 2
+  },
+  "class-10/maths/jhmh103.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "दो चर वाले रैखिक समीकरण युग्म",
+    "number": 3
+  },
+  "class-10/maths/jhmh104.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "द्विघात समीकरण",
+    "number": 4
+  },
+  "class-10/maths/jhmh105.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "समांतर श्रेढियाँ",
+    "number": 5
+  },
+  "class-10/maths/jhmh106.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "त्रिभुज",
+    "number": 6
+  },
+  "class-10/maths/jhmh107.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "निर्देशांक ज्यामिति",
+    "number": 7
+  },
+  "class-10/maths/jhmh108.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "त्रिकोणमिति का परिचय",
+    "number": 8
+  },
+  "class-10/maths/jhmh109.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "त्रिकोणमिति के कुछ अनुप्रयोग",
+    "number": 9
+  },
+  "class-10/maths/jhmh110.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "वृत्त",
+    "number": 10
+  },
+  "class-10/maths/jhmh111.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "र रचनाएँ",
+    "number": 11
+  },
+  "class-10/maths/jhmh112.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "वृत्तों से संबंधित क्षेत्रफल",
+    "number": 12
+  },
+  "class-10/maths/jhmh113.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "पृष्ठीय क्षेत्रफल और आयतन",
+    "number": 13
+  },
+  "class-10/maths/jhmh114.pdf": {
+    "grade": 10,
+    "subject": "maths",
+    "medium": "Hindi",
+    "title": "सांख्यिकी",
+    "number": 14
+  },
+  "class-10/science/jesc101.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Chemical Reactions and Equations",
+    "number": 1
+  },
+  "class-10/science/jesc102.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Acids, Bases and Salts",
+    "number": 2
+  },
+  "class-10/science/jesc103.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Metals and Non-metals",
+    "number": 3
+  },
+  "class-10/science/jesc104.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Carbon and its Compounds",
+    "number": 4
+  },
+  "class-10/science/jesc105.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Periodic Classification of Elements",
+    "number": 5
+  },
+  "class-10/science/jesc106.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Life Processes",
+    "number": 6
+  },
+  "class-10/science/jesc107.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Control and Coordination",
+    "number": 7
+  },
+  "class-10/science/jesc108.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "How do Organisms Reproduce?",
+    "number": 8
+  },
+  "class-10/science/jesc109.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Heredity and Evolution",
+    "number": 9
+  },
+  "class-10/science/jesc110.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Light – Reflection and Refraction",
+    "number": 10
+  },
+  "class-10/science/jesc111.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "The Human Eye and the Colourful World",
+    "number": 11
+  },
+  "class-10/science/jesc112.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Electricity",
+    "number": 12
+  },
+  "class-10/science/jesc113.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "English",
+    "title": "Magnetic Effects of Electric Current",
+    "number": 13
+  },
+  "class-10/science/jhsc101.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+    "number": 1
+  },
+  "class-10/science/jhsc102.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "अम्ल, क्षारक एवं लवण",
+    "number": 2
+  },
+  "class-10/science/jhsc103.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "धातु एवं अधातु",
+    "number": 3
+  },
+  "class-10/science/jhsc104.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "कार्बन एवं उसके यौगिक",
+    "number": 4
+  },
+  "class-10/science/jhsc105.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "तत्वों का आवर्त वर्गीकरण",
+    "number": 5
+  },
+  "class-10/science/jhsc106.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "जैव प्रक्रम",
+    "number": 6
+  },
+  "class-10/science/jhsc107.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "नियंत्रण एवं समन्वय",
+    "number": 7
+  },
+  "class-10/science/jhsc108.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "जीव जनन कैसे करते हैं?",
+    "number": 8
+  },
+  "class-10/science/jhsc109.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "अनुवांशिकता एवं जैव विकास",
+    "number": 9
+  },
+  "class-10/science/jhsc110.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "प्रकाश – परावर्तन तथा अपवर्तन",
+    "number": 10
+  },
+  "class-10/science/jhsc111.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "मानव नेत्र तथा रंगबिरंगा संसार",
+    "number": 11
+  },
+  "class-10/science/jhsc112.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "विद्युत",
+    "number": 12
+  },
+  "class-10/science/jhsc113.pdf": {
+    "grade": 10,
+    "subject": "science",
+    "medium": "Hindi",
+    "title": "विद्युत धारा के चुंबकीय प्रभाव",
+    "number": 13
+  },
+  "class-10/social-science/jess101.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Rise of Nationalism in Europe",
+    "number": 1
+  },
+  "class-10/social-science/jess201.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Resources and Development",
+    "number": 1
+  },
+  "class-10/social-science/jess301.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Power Sharing",
+    "number": 1
+  },
+  "class-10/social-science/jess401.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Development",
+    "number": 1
+  },
+  "class-10/social-science/jess102.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Nationalism in India",
+    "number": 2
+  },
+  "class-10/social-science/jess202.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Forest and Wildlife Resources",
+    "number": 2
+  },
+  "class-10/social-science/jess302.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Federalism",
+    "number": 2
+  },
+  "class-10/social-science/jess402.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Sectors of the Indian Economy",
+    "number": 2
+  },
+  "class-10/social-science/jess103.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Making of a Global World",
+    "number": 3
+  },
+  "class-10/social-science/jess203.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Water Resources",
+    "number": 3
+  },
+  "class-10/social-science/jess303.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Democracy and Diversity",
+    "number": 3
+  },
+  "class-10/social-science/jess403.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Money and Credit",
+    "number": 3
+  },
+  "class-10/social-science/jess104.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "The Age of Industrialisation",
+    "number": 4
+  },
+  "class-10/social-science/jess204.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Agriculture",
+    "number": 4
+  },
+  "class-10/social-science/jess304.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Gender, Religion and Caste",
+    "number": 4
+  },
+  "class-10/social-science/jess404.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Globalisation and the Indian Economy",
+    "number": 4
+  },
+  "class-10/social-science/jess105.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Print Culture and the Modern World",
+    "number": 5
+  },
+  "class-10/social-science/jess205.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Minerals and Energy Resources",
+    "number": 5
+  },
+  "class-10/social-science/jess305.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Popular Struggles and Movements",
+    "number": 5
+  },
+  "class-10/social-science/jess405.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Consumer Rights",
+    "number": 5
+  },
+  "class-10/social-science/jess106.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Manufacturing Industries",
+    "number": 6
+  },
+  "class-10/social-science/jess107.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "English",
+    "title": "Lifelines of National Economy",
+    "number": 7
+  },
+  "class-10/social-science/jhss101.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "यूरोप में राष्ट्रवाद का उदय",
+    "number": 1
+  },
+  "class-10/social-science/jhss201.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "संसाधन एवं विकास",
+    "number": 1
+  },
+  "class-10/social-science/jhss301.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "सत्ता की साझेदारी",
+    "number": 1
+  },
+  "class-10/social-science/jhss401.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "विकास",
+    "number": 1
+  },
+  "class-10/social-science/jhss102.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "भारत में राष्ट्रवाद",
+    "number": 2
+  },
+  "class-10/social-science/jhss202.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "वन एवं वन्य जीव संसाधन",
+    "number": 2
+  },
+  "class-10/social-science/jhss302.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "संघवाद",
+    "number": 2
+  },
+  "class-10/social-science/jhss402.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "भारतीय अर्थव्यवस्था के क्षेत्रक",
+    "number": 2
+  },
+  "class-10/social-science/jhss103.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "भूमंडलीकृत विश्व का बनना",
+    "number": 3
+  },
+  "class-10/social-science/jhss203.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "जल संसाधन",
+    "number": 3
+  },
+  "class-10/social-science/jhss303.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "लोकतंत्र और विविधता",
+    "number": 3
+  },
+  "class-10/social-science/jhss403.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "मुद्रा और साख",
+    "number": 3
+  },
+  "class-10/social-science/jhss104.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "औद्योगिकीकरण का युग",
+    "number": 4
+  },
+  "class-10/social-science/jhss204.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "कृषि",
+    "number": 4
+  },
+  "class-10/social-science/jhss304.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "जाति, धर्म और लैंगिक मसले",
+    "number": 4
+  },
+  "class-10/social-science/jhss404.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "वैश्वीकरण और भारतीय अर्थव्यवस्था",
+    "number": 4
+  },
+  "class-10/social-science/jhss205.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "खनिज तथा ऊर्जा संसाधन",
+    "number": 5
+  },
+  "class-10/social-science/jhss305.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "जन-संघर्ष और आंदोलन",
+    "number": 5
+  },
+  "class-10/social-science/jhss405.pdf": {
+    "grade": 10,
+    "subject": "social-science",
+    "medium": "Hindi",
+    "title": "उपभोक्ता अधिकार",
+    "number": 5
+  },
+  "class-11/biology/kebo101.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "The Living World",
+    "number": 1
+  },
+  "class-11/biology/kebo102.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Biological Classification",
+    "number": 2
+  },
+  "class-11/biology/kebo103.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Plant Kingdom",
+    "number": 3
+  },
+  "class-11/biology/kebo104.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Animal Kingdom",
+    "number": 4
+  },
+  "class-11/biology/kebo105.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Morphology of Flowering Plants",
+    "number": 5
+  },
+  "class-11/biology/kebo106.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Anatomy of Flowering Plants",
+    "number": 6
+  },
+  "class-11/biology/kebo107.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Structural Organisation in Animals",
+    "number": 7
+  },
+  "class-11/biology/kebo108.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Cell: The Unit of Life",
+    "number": 8
+  },
+  "class-11/biology/kebo109.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Biomolecules",
+    "number": 9
+  },
+  "class-11/biology/kebo110.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Cell Cycle and Cell Division",
+    "number": 10
+  },
+  "class-11/biology/kebo111.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Photosynthesis in Higher Plants",
+    "number": 11
+  },
+  "class-11/biology/kebo112.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Respiration in Plants",
+    "number": 12
+  },
+  "class-11/biology/kebo113.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Plant Growth and Development",
+    "number": 13
+  },
+  "class-11/biology/kebo114.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Breathing and Exchange of Gases",
+    "number": 14
+  },
+  "class-11/biology/kebo115.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Body Fluids and Circulation",
+    "number": 15
+  },
+  "class-11/biology/kebo116.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Excretory Products and their Elimination",
+    "number": 16
+  },
+  "class-11/biology/kebo117.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Locomotion and Movement",
+    "number": 17
+  },
+  "class-11/biology/kebo118.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Neural Control and Coordination",
+    "number": 18
+  },
+  "class-11/biology/kebo119.pdf": {
+    "grade": 11,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Chemical Coordination and Integration",
+    "number": 19
+  },
+  "class-11/chemistry/kech101.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Some Basic Concepts of Chemistry",
+    "number": 1
+  },
+  "class-11/chemistry/kech201.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Redox Reactions",
+    "number": 1
+  },
+  "class-11/chemistry/kech102.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Structure of Atom",
+    "number": 2
+  },
+  "class-11/chemistry/kech202.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Organic Chemistry – Some Basic Principles and Techniques",
+    "number": 2
+  },
+  "class-11/chemistry/kech103.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Classification of Elements and Periodicity in Properties",
+    "number": 3
+  },
+  "class-11/chemistry/kech203.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Hydrocarbons",
+    "number": 3
+  },
+  "class-11/chemistry/kech104.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Chemical Bonding and Molecular Structure",
+    "number": 4
+  },
+  "class-11/chemistry/kech105.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Thermodynamics",
+    "number": 5
+  },
+  "class-11/chemistry/kech106.pdf": {
+    "grade": 11,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Equilibrium",
+    "number": 6
+  },
+  "class-11/maths/kemh101.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Sets",
+    "number": 1
+  },
+  "class-11/maths/kemh102.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Relations and Functions",
+    "number": 2
+  },
+  "class-11/maths/kemh103.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Trigonometric Functions",
+    "number": 3
+  },
+  "class-11/maths/kemh104.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Complex Numbers and Quadratic Equations",
+    "number": 4
+  },
+  "class-11/maths/kemh105.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Linear Inequalities",
+    "number": 5
+  },
+  "class-11/maths/kemh106.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Permutations and Combinations",
+    "number": 6
+  },
+  "class-11/maths/kemh107.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Binomial Theorem",
+    "number": 7
+  },
+  "class-11/maths/kemh108.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Sequences and Series",
+    "number": 8
+  },
+  "class-11/maths/kemh109.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Straight Lines",
+    "number": 9
+  },
+  "class-11/maths/kemh110.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Conic Sections",
+    "number": 10
+  },
+  "class-11/maths/kemh111.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Introduction to Three Dimensional Geometry",
+    "number": 11
+  },
+  "class-11/maths/kemh112.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Limits and Derivatives",
+    "number": 12
+  },
+  "class-11/maths/kemh113.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Statistics",
+    "number": 13
+  },
+  "class-11/maths/kemh114.pdf": {
+    "grade": 11,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Probability",
+    "number": 14
+  },
+  "class-11/physics/keph101.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Units and Measurements",
+    "number": 1
+  },
+  "class-11/physics/keph201.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Mechanical Properties of Solids",
+    "number": 1
+  },
+  "class-11/physics/keph102.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Motion in a Straight Line",
+    "number": 2
+  },
+  "class-11/physics/keph202.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Mechanical Properties of Fluids",
+    "number": 2
+  },
+  "class-11/physics/keph103.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Motion in a Plane",
+    "number": 3
+  },
+  "class-11/physics/keph203.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Thermal Properties of Matter",
+    "number": 3
+  },
+  "class-11/physics/keph104.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Laws of Motion",
+    "number": 4
+  },
+  "class-11/physics/keph204.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Thermodynamics",
+    "number": 4
+  },
+  "class-11/physics/keph105.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Work, Energy and Power",
+    "number": 5
+  },
+  "class-11/physics/keph205.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Kinetic Theory",
+    "number": 5
+  },
+  "class-11/physics/keph106.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "System of Particles and Rotational Motion",
+    "number": 6
+  },
+  "class-11/physics/keph206.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Oscillations",
+    "number": 6
+  },
+  "class-11/physics/keph107.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Gravitation",
+    "number": 7
+  },
+  "class-11/physics/keph207.pdf": {
+    "grade": 11,
+    "subject": "physics",
+    "medium": "English",
+    "title": "Waves",
+    "number": 7
+  },
+  "class-12/biology/lebo101.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Sexual Reproduction in Flowering Plants",
+    "number": 1
+  },
+  "class-12/biology/lebo102.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Human Reproduction",
+    "number": 2
+  },
+  "class-12/biology/lebo103.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Reproductive Health",
+    "number": 3
+  },
+  "class-12/biology/lebo104.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Principles of Inheritance and Variation",
+    "number": 4
+  },
+  "class-12/biology/lebo105.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Molecular Basis of Inheritance",
+    "number": 5
+  },
+  "class-12/biology/lebo106.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Evolution",
+    "number": 6
+  },
+  "class-12/biology/lebo107.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Human Health and Disease",
+    "number": 7
+  },
+  "class-12/biology/lebo108.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Microbes in Human Welfare",
+    "number": 8
+  },
+  "class-12/biology/lebo109.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Biotechnology: Principles and Processes",
+    "number": 9
+  },
+  "class-12/biology/lebo110.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Biotechnology and its Applications",
+    "number": 10
+  },
+  "class-12/biology/lebo111.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Organisms and Populations",
+    "number": 11
+  },
+  "class-12/biology/lebo112.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Ecosystem",
+    "number": 12
+  },
+  "class-12/biology/lebo113.pdf": {
+    "grade": 12,
+    "subject": "biology",
+    "medium": "English",
+    "title": "Biodiversity and Conservation",
+    "number": 13
+  },
+  "class-12/chemistry/lech101.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Solutions",
+    "number": 1
+  },
+  "class-12/chemistry/lech201.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Haloalkanes and Haloarenes",
+    "number": 1
+  },
+  "class-12/chemistry/lech102.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Electrochemistry",
+    "number": 2
+  },
+  "class-12/chemistry/lech202.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Alcohols, Phenols and Ethers",
+    "number": 2
+  },
+  "class-12/chemistry/lech103.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Chemical Kinetics",
+    "number": 3
+  },
+  "class-12/chemistry/lech203.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Aldehydes, Ketones and Carboxylic Acids",
+    "number": 3
+  },
+  "class-12/chemistry/lech104.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "The d-and f-Block Elements",
+    "number": 4
+  },
+  "class-12/chemistry/lech204.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Amines",
+    "number": 4
+  },
+  "class-12/chemistry/lech105.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Coordination Compounds",
+    "number": 5
+  },
+  "class-12/chemistry/lech205.pdf": {
+    "grade": 12,
+    "subject": "chemistry",
+    "medium": "English",
+    "title": "Biomolecules",
+    "number": 5
+  },
+  "class-12/maths/lemh101.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Relations and Functions",
+    "number": 1
+  },
+  "class-12/maths/lemh201.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Integrals",
+    "number": 1
+  },
+  "class-12/maths/lemh102.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Inverse Trigonometric Functions",
+    "number": 2
+  },
+  "class-12/maths/lemh202.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Application of Integrals",
+    "number": 2
+  },
+  "class-12/maths/lemh103.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Matrices",
+    "number": 3
+  },
+  "class-12/maths/lemh203.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Differential Equations",
+    "number": 3
+  },
+  "class-12/maths/lemh104.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Determinants",
+    "number": 4
+  },
+  "class-12/maths/lemh204.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Vector Algebra",
+    "number": 4
+  },
+  "class-12/maths/lemh105.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Continuity and Differentiability",
+    "number": 5
+  },
+  "class-12/maths/lemh205.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Three Dimensional Geometry",
+    "number": 5
+  },
+  "class-12/maths/lemh106.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Application of Derivatives",
+    "number": 6
+  },
+  "class-12/maths/lemh206.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Linear Programming",
+    "number": 6
+  },
+  "class-12/maths/lemh207.pdf": {
+    "grade": 12,
+    "subject": "maths",
+    "medium": "English",
+    "title": "Probability",
+    "number": 7
+  },
+  "class-12/physics/leph101.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "ELECTRIC CHARGES AND FIELDS",
+    "number": 1
+  },
+  "class-12/physics/leph201.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "RAY OPTICS AND OPTICAL INSTRUMENTS",
+    "number": 1
+  },
+  "class-12/physics/leph102.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "ELECTROSTATIC POTENTIAL AND CAPACITANCE",
+    "number": 2
+  },
+  "class-12/physics/leph202.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "WAVE OPTICS",
+    "number": 2
+  },
+  "class-12/physics/leph103.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "CURRENT ELECTRICITY",
+    "number": 3
+  },
+  "class-12/physics/leph203.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "DUAL NATURE OF RADIATION AND MATTER",
+    "number": 3
+  },
+  "class-12/physics/leph104.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "MOVING CHARGES AND MAGNETISM",
+    "number": 4
+  },
+  "class-12/physics/leph204.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "ATOMS",
+    "number": 4
+  },
+  "class-12/physics/leph105.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "MAGNETISM AND MATTER",
+    "number": 5
+  },
+  "class-12/physics/leph205.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "NUCLEI",
+    "number": 5
+  },
+  "class-12/physics/leph106.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "ELECTROMAGNETIC INDUCTION",
+    "number": 6
+  },
+  "class-12/physics/leph206.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "SEMICONDUCTOR ELECTRONICS: MATERIALS, DEVICES AND SIMPLE CIRCUITS",
+    "number": 6
+  },
+  "class-12/physics/leph107.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "ALTERNATING CURRENT",
+    "number": 7
+  },
+  "class-12/physics/leph108.pdf": {
+    "grade": 12,
+    "subject": "physics",
+    "medium": "English",
+    "title": "ELECTROMAGNETIC WAVES",
+    "number": 8
+  }
+}

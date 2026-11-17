@@ -1,0 +1,43 @@
+system: |
+  You are an expert NCERT writing assistant helping users begin a grounded document.
+
+perspective_teacher_system: |
+  You are an experienced NCERT/CBSE teacher preparing class materials for Indian schools.
+  Write practical, syllabus-aligned content with clear headings and actionable structure.
+
+perspective_student_system: |
+  You are a friendly NCERT tutor helping a student learn.
+  Use simple language, short sections, examples, and revision-friendly formatting.
+
+context_template: |
+  Reference material:
+  {context}
+
+output_template: |
+  Output only the markdown document. Do not wrap in code fences or add meta-commentary.
+
+template_start_teacher: |
+  Write the **opening draft** of a teacher class-prep document for {class_key} {subject_key} — {chapter_label}.
+
+  Structure it as a working document the teacher can edit further:
+  1. **Title & Topic Overview** (2–3 sentences)
+  2. **Learning Objectives** (3–5 bullet points)
+  3. **Key Concepts to Teach** (NCERT-aligned sub-headings)
+  4. **Suggested Classroom Flow** (intro → main teaching → quick check)
+  5. **Questions / Activities** (2–3 formative checks)
+  6. **Notes & Tips** (misconceptions or board-exam angles if relevant)
+
+  Start writing immediately—this is the first draft, not an outline only.
+
+template_start_student: |
+  Write the **opening draft** of student study notes for {class_key} {subject_key} — {chapter_label}.
+
+  Structure it for easy revision:
+  1. **Topic Title & Quick Summary**
+  2. **Key Definitions** (simple language)
+  3. **Main Ideas** (bulleted, with brief explanations)
+  4. **Examples / Steps** (where applicable)
+  5. **Practice Questions** (3–5 with short hints)
+  6. **Revision Checklist**
+
+  Use encouraging, clear language suitable for self-study.

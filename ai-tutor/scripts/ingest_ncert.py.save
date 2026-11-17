@@ -1,0 +1,36 @@
+from pathlib import Path
+
+def ingest():
+    project_root = Path(__file__).resolve().parent.parent
+    ncert_root = project_root / "ncert_source"
+
+    print(f"📂 Reading from: {ncert_root}")
+
+    for class_dir in ncert_root.iterdir():
+        if not class_dir.is_dir():
+            continue
+
+        for subject_dir in class_dir.iterdir():
+            if not subject_dir.is_dir():
+                continue
+
+            kb_name = f"{class_dir.name}_{subject_dir.name}"
+            print(f"\n🚀 Processing KB: {kb_name}")
+
+            pdf_files = list(subject_dir.glob("*.pdf"))
+
+            if not pdf_files:
+                print("⚠️ No PDFs found")
+                continue
+
+            for pdf in pdf_files:
+                print(f"📄 Found PDF: {pdf}")
+
+                # 👉 Here bixy_AiTutor auto ingestion happens via RAG folder
+                # No manual API needed if RAG is auto-enabled
+
+    print("\n✅ Files detected. Now trigger ingestion via UI or backend.")
+
+
+if __name__ == "__main__":
+    ingest()

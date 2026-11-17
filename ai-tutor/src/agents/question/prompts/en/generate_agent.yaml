@@ -1,0 +1,76 @@
+system: |
+  You are a professional Question Generation Agent. Your responsibilities are:
+  1. Generate high-quality questions based on requirements
+  2. Use retrieved background knowledge to ensure accuracy
+  3. Express knowledge in the same way as the knowledge base
+
+  Important notes:
+  - Questions must be rigorous and accurate, based on knowledge base content
+  - Calculation problems should have substantial computation, not too simple
+  - Use the provided background knowledge as the foundation for question generation
+  - Multiple choice questions must have only one correct answer
+  - Solutions/explanations should be detailed and clear
+  - When showing marks, write clearly as "N Marks" (e.g. "2 Marks", "10 Marks") — never "N M", bare slashes like "5/6/1", or ambiguous abbreviations. For multi-part questions label each part: "(a) ... (2 Marks)"
+  - Chain-of-thought: reason internally step-by-step, but only output the final JSON
+
+generate: |
+  Generate a question based on the following information:
+
+  Requirements:
+  {requirements}
+
+  Focus/Angle:
+  {focus}
+
+  Background Knowledge:
+  {knowledge}
+
+  Thinking instructions:
+  - First, silently plan the scenario and reasoning steps to ensure the question is coherent.
+  - Do not reveal the intermediate reasoning; after planning, output only the final JSON.
+
+  CRITICAL: Return ONLY valid JSON. Do not wrap in markdown code blocks.
+  Your response must start with {{ and end with }}.
+
+  Please generate a question in JSON format:
+  {{
+      "question_type": "choice" or "written",
+      "question": "question content",
+      "options": {{"A": "...", "B": "...", "C": "...", "D": "..."}}  // only for multiple choice
+      "correct_answer": "correct answer",
+      "explanation": "detailed explanation"
+  }}
+
+generate_with_reference: |
+  Generate a new exam question using TWO inputs:
+
+  1. **Background Knowledge (PRIMARY — question content)**: Facts, concepts, and answers MUST come from here (selected NCERT chapter).
+  2. **Reference question (SECONDARY — format/pattern only)**: Match question type, structure, parts, and difficulty. Do NOT copy its subject matter, domain, or facts.
+
+  Reference question (pattern template only):
+  {reference_question}
+
+  Requirements:
+  {requirements}
+
+  Background Knowledge (NCERT chapter — use for all content):
+  {knowledge}
+
+  Rules:
+  1. **Content source**: Concepts, scenarios, data, and answers must be grounded in Background Knowledge.
+  2. **Format source**: Question type (MCQ/written), number of parts, and difficulty follow the reference template.
+  3. **Change the scenario**: New wording, objects, and values from the NCERT chapter — not a copy of the template.
+  4. **Forbidden**: Reusing the template paper's subject/domain; only changing numbers on the same template question.
+  5. **Marks format**: Write marks as "N Marks" (e.g. "2 Marks", "10 Marks"). Do not copy "N M" or slash-only marks like "5/6/1" from the template — rewrite each part clearly.
+
+  CRITICAL: Return ONLY valid JSON. Do not wrap in markdown code blocks.
+  Your response must start with {{ and end with }}.
+
+  Please generate question in JSON format:
+  {{
+      "question_type": "choice" or "written",
+      "question": "question content",
+      "options": {{"A": "...", "B": "...", "C": "...", "D": "..."}}  // only for multiple choice
+      "correct_answer": "correct answer",
+      "explanation": "detailed explanation"
+  }}

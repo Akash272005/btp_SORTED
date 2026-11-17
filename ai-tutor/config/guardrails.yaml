@@ -1,0 +1,62 @@
+# =============================================================================
+# bixy_AiTutor — Guardrails Configuration
+# =============================================================================
+# Controls AI output restrictions and student-mode behaviour.
+# Changes here take effect immediately (no restart required for most agents).
+# =============================================================================
+
+student_mode:
+  # Master switch — set to false to disable all restrictions
+  enabled: true
+
+  # Output format
+  output_format: bullet_points    # options: bullet_points | prose | auto
+  min_bullet_points: 3
+  max_bullet_points: 5
+
+  # Language
+  language: auto                  # auto | en | hi | hinglish
+
+  # Response length guard
+  max_response_words: 200         # hard cap for student-mode responses
+
+class_restriction:
+  # Restrict AI to only answer within the student's current class/subject
+  enabled: true
+  default_class: "10"
+  default_subject: "science"
+  restrict_off_topic: true
+  # Polite refusal message when off-topic question is detected
+  off_topic_message: >
+    This question seems outside your current subject. 
+    Please ask about {subject} for Class {class_level}. 
+    I am here to help you with that!
+
+content_tabs:
+  # Controls which content source tabs are visible in the UI
+  ncert:
+    enabled: true
+    kb_name: "ncert-all"          # knowledge base name in data/knowledge_bases/
+    rag_mode: naive               # naive | hybrid | local | global
+    label: "📚 NCERT"
+  web:
+    enabled: true
+    label: "🌐 Web"
+  nptel:
+    enabled: true
+    channel_id: "UCc0RUBiEtAvKQjCE7FUMpQ"   # Official NPTEL YouTube channel
+    max_results: 5
+    label: "🎓 NPTEL"
+  youtube:
+    enabled: true
+    max_results: 5
+    label: "▶️ YouTube"
+
+tts:
+  # Text-to-speech narration for answers
+  enabled: true
+  default_language: en
+  voices:
+    en: alloy                     # OpenAI TTS voices: alloy, nova, shimmer, echo, fable, onyx
+    hi: nova                      # nova handles Hindi well
+  max_narration_words: 150        # trim long answers before TTS to avoid timeouts

@@ -1,0 +1,26 @@
+"use client";
+
+import { useSyncExternalStore } from "react";
+
+function subscribe(query: string, onStoreChange: () => void) {
+  const mql = window.matchMedia(query);
+  mql.addEventListener("change", onStoreChange);
+  return () => mql.removeEventListener("change", onStoreChange);
+}
+
+function getSnapshot(query: string) {
+  return window.matchMedia(query).matches;
+}
+
+/** SSR/hydration default — avoids server/client width mismatch on first paint. */
+function getServerSnapshot() {
+  return false;
+}
+
+export function useMediaQuery(query: string): boolean {
+  return useSyncExternalStore(
+    (onStoreChange) => subscribe(query, onStoreChange),
+    () => getSnapshot(query),
+    getServerSnapshot,
+  );
+}

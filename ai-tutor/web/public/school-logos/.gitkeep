@@ -1,0 +1,1 @@
+# Uploaded school logos are stored here as {school_id}.{ext} via POST /api/admin/settings/logo.
